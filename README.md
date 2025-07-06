@@ -84,6 +84,8 @@ Example query to identify spikes
 
 `index=_* OR index=* sourcetype=dns | stats count by fqdn`
 
+!https://github.com/Mr-Stephenson24/Analyzing-DNS-Log-Files-Using-Splunk-SIEM/blob/main/Screenshot%202025-07-06%20123923.png?raw=true
+
 7. Find the top DNS sources
 
 Use the top command to count the occurrences of each query type:
