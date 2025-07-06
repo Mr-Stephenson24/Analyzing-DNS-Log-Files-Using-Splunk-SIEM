@@ -11,8 +11,7 @@ DNS log data sources are configured to forward logs to Splunk.
 
 
 
-
-![App Screenshot](main/Screenshot%202025-07-06%20092717.png)https://github.com/Mr-Stephenson24/Analyzing-DNS-Log-Files-Using-Splunk-SIEM/blob/main/Screenshot%202025-07-06%20092717.png?raw=true
+!https://github.com/Mr-Stephenson24/Analyzing-DNS-Log-Files-Using-Splunk-SIEM/blob/main/Screenshot%202025-07-06%20092717.png?raw=true
 
 
 !https://github.com/Mr-Stephenson24/Analyzing-DNS-Log-Files-Using-Splunk-SIEM/blob/main/Screenshot%202025-07-06%20092717.png?raw=true
