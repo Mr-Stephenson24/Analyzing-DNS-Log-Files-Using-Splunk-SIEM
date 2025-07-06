@@ -101,6 +101,8 @@ Example search for known malicious domains:
 
 `index=* sourcetype=dns fqdn="maliciousdomain.com"`
 
+!https://github.com/Mr-Stephenson24/Analyzing-DNS-Log-Files-Using-Splunk-SIEM/blob/main/Screenshot%202025-07-06%20124716.png
+
 #Conclusion
 
 Analyzing DNS log files using Splunk SIEM enables security professionals to detect and respond to potential security incidents effectively. By understanding DNS activity and identifying anomalies, organizations can enhance their overall security posture and protect against various cyber threats.
