@@ -79,9 +79,12 @@ Example extraction command:
 5. Identify Anomalies
 Look for unusual patterns or anomalies in DNS activity.
 Example query to identify spikes
+
+!https://github.com/Mr-Stephenson24/Analyzing-DNS-Log-Files-Using-Splunk-SIEM/blob/main/Screenshot%202025-07-06%20123347.png?raw=true
+
 `index=_* OR index=* sourcetype=dns | stats count by fqdn`
 
-6. Find the top DNS sources
+7. Find the top DNS sources
 
 Use the top command to count the occurrences of each query type:
 
