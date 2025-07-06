@@ -71,12 +71,14 @@ As mentioned below,
 
 ` | regex _raw="(?i)\b(dns|domain|query|response|port 53)\b":`
 
+!https://github.com/Mr-Stephenson24/Analyzing-DNS-Log-Files-Using-Splunk-SIEM/blob/main/Screenshot%202025-07-06%20125015.png
+
+
 4.  This regex searches for common DNS-related keywords in the raw event data.
 Example extraction command:
 
 `index=* sourcetype=dns| regex _raw="(?i)\b(dns|domain|query|response|port 53)\b"`
 
-!https://github.com/Mr-Stephenson24/Analyzing-DNS-Log-Files-Using-Splunk-SIEM/blob/main/Screenshot%202025-07-06%20125015.png
 
 5. Identify Anomalies
 Look for unusual patterns or anomalies in DNS activity.
