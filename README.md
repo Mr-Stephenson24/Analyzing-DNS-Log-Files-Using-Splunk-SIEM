@@ -50,7 +50,7 @@ After uploading, navigate to the search bar in the Splunk interface.
 
 Run a search query to verify that the uploaded DNS events are visible.
 
-!https://github.com/Mr-Stephenson24/Analyzing-DNS-Log-Files-Using-Splunk-SIEM/blob/main/Screenshot%202025-07-06%20092756.png
+!https://github.com/Mr-Stephenson24/Analyzing-DNS-Log-Files-Using-Splunk-SIEM/blob/main/Screenshot%202025-07-06%20092717.png
 
 `index=<your_dns_index> sourcetype=<your_dns_sourcetype>`
 
