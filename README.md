@@ -67,7 +67,7 @@ Enter the following search query to retrieve DNS events
 3. Identify key fields in DNS logs such as source IP, destination IP, domain name, query type, response code, etc.
 As mentioned below,
 
-!https://github.com/Mr-Stephenson24/Analyzing-DNS-Log-Files-Using-Splunk-SIEM/blob/main/Screenshot%202025-07-06%20121049.png?raw=true
+!https://github.com/Mr-Stephenson24/Analyzing-DNS-Log-Files-Using-Splunk-SIEM/blob/main/Screenshot%202025-07-06%20121049.png
 
 ` | regex _raw="(?i)\b(dns|domain|query|response|port 53)\b":`
 
