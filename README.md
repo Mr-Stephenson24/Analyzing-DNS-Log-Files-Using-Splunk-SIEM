@@ -92,6 +92,8 @@ Use the top command to count the occurrences of each query type:
 
 `index=* sourcetype=dns| top fqdn, src_ip`
 
+!https://github.com/Mr-Stephenson24/Analyzing-DNS-Log-Files-Using-Splunk-SIEM/blob/main/Screenshot%202025-07-06%20124413.png
+
 7. Investigate Suspicious Domains
 Search for domains associated with known malicious activity or suspicious behavior.
 Utilize threat intelligence feeds or reputation databases to identify malicious domains such virustotal.com
